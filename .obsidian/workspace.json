@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "e8b1e7079213cea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0fe6c66f88da91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0f2fee820575d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENUMERATION/SMB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SMB"
+            }
+          },
+          {
+            "id": "8b08ec97de616fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENUMERATION/SMB.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SMB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59f5b281e6b58f79",
+    "type": "split",
+    "children": [
+      {
+        "id": "941175c1b68bc5c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49d2e38fa784abc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "91c119d2813493c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f96d0dd5b100941c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a605ebd7d88e884",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f02e6917260f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccc02e77c44db05e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-ghost",
+              "title": "backlink"
+            }
+          },
+          {
+            "id": "0749071249cbc61a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "2832ae88491beccb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef987eada1a092d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ENUMERATION/SMB.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SMB"
+            }
+          },
+          {
+            "id": "234e1b52f43a3509",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "acfee9d8c712cec4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "juggl:Juggl global graph": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "c0f2fee820575d2f",
+  "lastOpenFiles": [
+    "ENUMERATION/SMB.md",
+    "ENUMERATION/Network.md",
+    "README.md",
+    "index.md",
+    "images/Screenshot from 2025-10-03 19-47-16.png",
+    "ENUMERATION/images",
+    "EXPLOITATION/SMB credentials capturing.md",
+    "VulnActive",
+    "VulnActive/README.md",
+    "images/Screenshot from 2025-09-19 20-44-19.png",
+    "ENUMERATION/Nmap.md",
+    "ENUMERATION/Exploitation Scenarios.md",
+    "ENUMERATION/Redis (Port 6379).md",
+    "images/Screenshot from 2025-09-19 21-01-13.png",
+    "images/Screenshot from 2025-09-19 20-48-44.png",
+    "images/Screenshot from 2025-09-19 20-47-15.png",
+    "EXPLOITATION",
+    "images/Screenshot from 2025-09-19 11-34-23.png",
+    "images",
+    "images/Screenshot from 2025-09-19 10-54-13.png",
+    "ENUMERATION"
+  ]
+}
