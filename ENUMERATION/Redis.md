@@ -65,3 +65,4 @@ Notice the Redis version is very old (*2.8.2402,* currently 6.2.6).
 
 The current user name is `enterprise-security`.
 
+**Next step:** [[SMB credentials capturing]]
