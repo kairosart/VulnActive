@@ -179,6 +179,12 @@
       "ctime": 1758187984482,
       "path": "EXPLOITATION/RCE.md",
       "subpath": "#Getting a reverse shell"
+    },
+    {
+      "type": "file",
+      "ctime": 1759776767799,
+      "path": "EXPLOITATION/Initial access.md",
+      "subpath": "#Reverse Shell"
     }
   ]
 }
