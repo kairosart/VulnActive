@@ -43,12 +43,14 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/emi/Documents/obsidian/Exfilibur/docs",
+  "exportPath": "/home/emi/external/Obsidian/VulnActive/docs",
   "filesToExport": [
     [
       "ENUMERATION",
       "EXPLOITATION",
-      "index.md"
+      "PRIVILEGE ESCALATION",
+      "index.md",
+      "README.md"
     ]
   ]
 }

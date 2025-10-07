@@ -10,3 +10,19 @@ Another Windows machine. Do your best and breach it, good luck!
 Note: Since this is a windows machine you _might_ need to give it up to 5 minutes to boot.
 
 Icon made by [Freepik](https://www.freepik.com/) from [www.flaticon.com](http://www.flaticon.com/)
+
+
+---
+## Steps
+
+1. [[Network Map]]
+2. [[SMB]]
+3. [[Redis]]
+4. [[SMB credentials capturing]]
+5. [[Initial access]]
+6. [[User's flag]]
+7. [[Pipe Impersonation (PrintSpooler)]]
+8. [[System flag]]
+9. [[README]]
+
+
