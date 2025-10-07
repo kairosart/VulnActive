@@ -12,6 +12,7 @@ With the obtained credentials, the attacker enumerates SMB shares using `smbcli
 
 Privilege escalation is achieved through multiple possible methods. 
 
+- Pipe Impersonation (PrintSpooler). Createing a malicious payload with `msfvenom` and getting a meterpreter with `metasploit`. I've used this one.
 - One approach involves exploiting the PrintNightmare vulnerability (CVE-2021-1675) by uploading and executing a malicious DLL via the reverse shell, which adds a new local administrator account (`adm1n` with password `P@ssw0rd`) to the system. 
 - Alternatively, attackers can use BloodHound to identify attack paths within the domain. Enumeration reveals that the `enterprise-security` user has `GenericWrite` permissions on a Group Policy Object (GPO) named `SECURITY-POL-VN`. Using a tool like `SharpGPOAbuse`, the attacker can modify the GPO to create a scheduled task that adds the `enterprise-security` user to the local Administrators group. After forcing a group policy update with `gpupdate /force`, the user gains administrative privileges, allowing access to the `system.txt` flag located on the desktop.
 
